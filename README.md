@@ -24,7 +24,7 @@ Electromagnetic Theory is historically considered one of the most mathematically
 
 ---
 
-### 📑 Comprehensive Syllabus & Covered Topics (English)
+### 📑 Comprehensive Syllabus & Covered Topics 
 
 1. **Vector Calculus & Foundations:**
    - Orthogonal Coordinate Systems (Cartesian, Cylindrical, Spherical)
